@@ -10,7 +10,7 @@ pip install ModuleName
 7. Make sure in the gmail account settings that the [allow less secure apps](https://support.google.com/accounts/answer/6010255?hl=en#zippy=%2Cif-less-secure-app-access-is-on-for-your-account) is on.
 8. Open up a Command Prompt and Change to the directory the program is placed and execute the [importos.py](https://github.com/rohitb6/Advanced-Keylogger-with-Webcam-and-Microphone-Spy/blob/main/import%20os.py) file.
 9. Open the graphical file manager and go to the C://Users/Public/Logs directory to watch the program in action.
-10. After files are encrypted and sent to email, download them and place them in the directory specified in [delete automatic.py](https://github.com/rohitb6/import-os-with-Webcam-and-Microphone-Spy/blob/main/deleteautomatic.py) and run the decrypt file in command prompt.
+10. After files are encrypted and sent to email, download them and place them in the directory specified in [delete automatic.py](https://github.com/rohitb6/Advanced-Keylogger-with-Webcam-and-Microphone-Spy/blob/main/deleteautomatic.py) and run the decrypt file in command prompt.
 
 ## Working:
 * Creates a directory to temporarily store information to exfitrate
