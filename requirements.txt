@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+# Some modules may not be available in this file.
+# So, you may have to install them manually.
+
+
+pip install KeyListener
+pip install MouseListener
+pip install Pynput
+pip install smtlib
+pip install sounddevice
+pip install pyautogui
+ 
